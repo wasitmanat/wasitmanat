@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=http://facebook.com/wasitmanat1090&style=for-the-badge&url=https%3A%2F%2Fhttp://facebook.com/wasitmanat1090)](http://facebook.com/wasitmanat1090)
 
-## I'm a Student at BAF Shaheen College Dhaka!
+## I'm a Student at Bangladesh University of Business and Technology (BUBT)!
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to learn from other programmers
