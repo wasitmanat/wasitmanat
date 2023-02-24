@@ -1,6 +1,6 @@
 ### Hi there, I'm Wasit 👋
 
-[![Website](https://img.shields.io/website?label=http://facebook.com/wasitmanat1090&style=for-the-badge&url=https%3A%2F%2Fhttps://www.linkedin.com/in/wasitmanat)](https://www.linkedin.com/in/wasitmanat)
+[![Website](https://img.shields.io/website?label=https://www.linkedin.com/in/wasitmanat&style=for-the-badge&url=https%3A%2F%2Fhttps://www.linkedin.com/in/wasitmanat)](https://www.linkedin.com/in/wasitmanat)
 
 ## I'm a Student at Bangladesh University of Business and Technology (BUBT)!
 
