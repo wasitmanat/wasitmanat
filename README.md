@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=https://www.linkedin.com/in/wasitmanat&style=for-the-badge&url=https%3A%2F%2Fhttps://www.linkedin.com/in/wasitmanat)](https://www.linkedin.com/in/wasitmanat)
 
-## I'm a Student at Bangladesh University of Business and Technology (BUBT)!
+## I'm a Sophomore at Bangladesh University of Business and Technology (BUBT) pursuing Bachelor's in Computer Science & Engineering!
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to learn from other programmers
@@ -15,7 +15,7 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-<br />
+<br>
 
 ### Languages and Tools:
 
